@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEncryp", "MyEncryp.csproj", "{A7CC37D9-3CC5-40E3-80AF-27219FC4BF58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CC37D9-3CC5-40E3-80AF-27219FC4BF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CC37D9-3CC5-40E3-80AF-27219FC4BF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CC37D9-3CC5-40E3-80AF-27219FC4BF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CC37D9-3CC5-40E3-80AF-27219FC4BF58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51FBF2CA-2C29-4520-88EB-AEC5EC08C154}
+	EndGlobalSection
+EndGlobal

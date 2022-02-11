@@ -1,0 +1,10 @@
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryp.csproj.AssemblyReference.cache
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryptionForKey.Form1.resources
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryp.Properties.Resources.resources
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryp.csproj.GenerateResource.cache
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryp.csproj.CoreCompileInputs.cache
+C:\Users\svadlakonda\source\repos\MyEncryp\bin\Debug\MyEncryp.exe.config
+C:\Users\svadlakonda\source\repos\MyEncryp\bin\Debug\MyEncryp.exe
+C:\Users\svadlakonda\source\repos\MyEncryp\bin\Debug\MyEncryp.pdb
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryp.exe
+C:\Users\svadlakonda\source\repos\MyEncryp\obj\Debug\MyEncryp.pdb
